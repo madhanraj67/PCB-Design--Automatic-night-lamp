@@ -46,7 +46,6 @@ During the daytime when there is a light, the LDR has very low resistance and al
 
 
 ### Layout diagram
-![Uploading image.png…]()
 
 
 
